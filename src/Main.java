@@ -10,7 +10,7 @@ public class Main {
 //        Animal a = new Animal();
 //        a.eyeColor = "Black";
 //        a.furColor ="white";
-//        a.NumberofLegs =4;
+//        a.Numberofleges= 4;
 //        System.out.println("Animal furcolor - " + a.furColor);
 //        System.out.println("Animal eyecolor - " + a.eyeColor);
 //        System.out.println("Animal Numberoflegs - " + a.NumberofLegs);
